@@ -7,7 +7,7 @@
 ## Install
 
 Download this repo and grab the `grade.js` file from the `/docs/dist` folder.
-
+[pokefortress](http://www.pokefortress.com/)
 Or install from npm: `npm install grade-js`
 
 Use the CDN link:
@@ -50,7 +50,7 @@ If you've installed from npm, you can use the library like so:
 import Grade from 'grade-js'
 // initialise as above
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 The module this imports will be using ES2015 syntax, so it will need to be transpiled by a build tool, like [Babel](https://babeljs.io/), and if you are importing the module in this fashion (and using npm), I imagine you're already using a bundling tool, like Webpack or Browserify!
 
 ## Running locally
@@ -71,7 +71,7 @@ To enable CORS for images hosted on S3 buckets, follow the Amazon guide [here](h
  <AllowedMethod>GET</AllowedMethod>
 </CORSRule>
 ```
-
+[pokefortress](http://www.pokefortress.com/)
 For all images, you can optionally also include a cross-origin attribute in your image.
 
 ```html
@@ -90,7 +90,7 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
+[pokefortress](http://www.pokefortress.com/)
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
